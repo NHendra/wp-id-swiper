@@ -1,0 +1,29 @@
+{
+  "name": "wp-id-swiper",
+  "version": "1.0.0",
+  "description": "modified version of react-id-swiper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NHendra/wp-id-swiper.git"
+  },
+  "keywords": [
+    "swiper",
+    "@wordpress/element",
+    "react-id-swiper"
+  ],
+  "author": "NHendra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NHendra/wp-id-swiper/issues"
+  },
+  "homepage": "https://github.com/NHendra/wp-id-swiper#readme",
+  "dependencies": {
+    "@wordpress/element": "^5.10.0",
+    "object-assign": "^4.1.1",
+    "swiper": "^9.3.2"
+  }
+}
